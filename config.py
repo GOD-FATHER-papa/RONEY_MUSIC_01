@@ -42,15 +42,15 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBots254c6b')
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/iamnobita206243/NOBITA_MUSIC_01",
+    "https://github.com/GOD-FATHER-papa/RONEY_MUSIC_01",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 # ________________________________________________________________________________#
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NOB1TA_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+ClpXmI00B7UxYjc1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Pallavi_Dairy")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Pallavi_Dairy")
 # ________________________________________________________________________________#
 # Set this to True if you want the assistant to automatically leave chats
 # after an interval
